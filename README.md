@@ -1,4 +1,4 @@
-skills = [
+mySkills = [
     "Python",
     "HTML",
     "CSS",
